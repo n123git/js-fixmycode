@@ -10,6 +10,7 @@ Function Signature:
 getGlobalPollution(options)
 ```
 * `options`  *Object* (optional)
+
 Here are all the options lol:
 | Option           | Type    | Default | Description                                                                                                  |
 | ---------------- | ------- | ------- | ------------------------------------------------------------------------------------------------------------ |
