@@ -1,5 +1,5 @@
 # js-fixmycode
-A short JS script to measure global scope pollution in a web environment (Made for yw-cond)
+A short JS script to measure global scope pollution in a web environment (Made for yw-cond v1.4b)
 
 ## Documentation and stuff
 To use this code you must call the following function: `getGlobalPollution` in your console while your site is running.
